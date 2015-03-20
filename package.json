@@ -1,6 +1,6 @@
 {
   "name": "wintersmith-raw",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A wintersmith plugin to keep files raw.",
   "author": "Websecurify",
   "dependencies": {
