@@ -1,0 +1,9 @@
+{
+  "name": "wintersmith-raw",
+  "version": "1.0",
+  "description": "A wintersmith plugin to keep files raw.",
+  "author": "Websecurify",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
