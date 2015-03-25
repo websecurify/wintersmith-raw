@@ -12,7 +12,7 @@ path = require 'path'
 # ---
 
 module.exports = (env, callback) ->
-	callback null unless env?.config?.raw
+	return callback null unless env?.config?.raw
 	
 	# ---
 	
@@ -39,6 +39,6 @@ module.exports = (env, callback) ->
 	
 	# ---
 	
-	callback null
+	return callback null
 	
 # ---
